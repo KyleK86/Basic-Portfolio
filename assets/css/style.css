@@ -104,7 +104,8 @@ h3 {
 }
 
 .main-container {
-    padding-top: 95px;
+    margin-top: 50px;
+    padding-top: 85px;
     background-color: #ffffff;
     margin: auto;
     width: 960px;
